@@ -1,0 +1,10 @@
+h5py==2.10.0
+matplotlib==3.0.3
+munch==2.5.0
+torch==1.2.0
+pyyaml==5.3.1
+torchvision==0.4.0
+pymesh==1.0.2
+termcolor==1.1.0
+tqdm==4.62.2
+einops==0.3.2
