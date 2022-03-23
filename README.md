@@ -1,6 +1,6 @@
-# SPTNet: Learning Spherical Point Transformation for Point Cloud Completion
+# 3D Shape Reconstruction from 2D Image with Disentangled Attribute Flow(CVPR2022)
 
-This is the demonstrative code for CVPR submission 2686, in order to provide better understanding of network structure. The pretrained model is not contained due to size limitations of supplementary material, and will be released after the acceptance of this paper.
+This repository contains the code for 3DAttriFlow
 ## Installation:
 Our code is implemented in Python 3.5, PyTorch 1.2 and CUDA 10.0.
 - Install python Dependencies
