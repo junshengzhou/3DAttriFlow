@@ -84,7 +84,7 @@ python val_pc.py -c cfgs/PC.yaml -gpu 0
 ```
 ## Acknowledgements
 
-Some of the code of this repo is borrowed from [VRCNet]([https://github.com/hzxie/GRNet](https://github.com/paul007pl/VRCNet)) and [EigenGAN-Pytorch](https://github.com/bryandlee/eigengan-pytorch). We thank the authors for their great job!
+Some of the code of this repo is borrowed from [VRCNet](https://github.com/paul007pl/VRCNet), [EigenGAN-Pytorch](https://github.com/bryandlee/eigengan-pytorch), [pytorchpointnet++](https://github.com/erikwijmans/Pointnet2_PyTorch) and [ChamferDistancePytorch](https://github.com/ThibaultGROUEIX/ChamferDistancePytorch). We thank the authors for their great job!
 
 ## License
 
