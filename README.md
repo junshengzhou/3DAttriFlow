@@ -67,7 +67,7 @@ elif prefix=="val":
 
 ## Checkpoints:
 - You can download our checkpoints from: https://drive.google.com/drive/folders/1UXncXeE7L5p4h0Px8JI432g8l5uzgxMK?usp=sharing
-- Put them in './checkpoints'
+- Put them in `./checkpoints`
 
 ## Usage:
 - To train a model: 
