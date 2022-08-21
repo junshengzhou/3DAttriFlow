@@ -56,7 +56,7 @@ cache_path: 'Path/cache_test'
 ```
 
 Point Cloud Completion
-- Download MVP data from : https://drive.google.com/drive/folders/1XxZ4M_dOB3_OG1J6PnpNvrGTie5X9Vk_
+- Download MVP data from : <https://drive.google.com/drive/folders/1XxZ4M_dOB3_OG1J6PnpNvrGTie5X9Vk_>
 - You need to update the file path of the datasets in `dataset_pc/dataset.py`:
 ```
 if prefix=="train":
